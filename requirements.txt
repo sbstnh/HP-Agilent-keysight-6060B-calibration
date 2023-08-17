@@ -1,0 +1,5 @@
+pyvisa
+numpy
+pandas
+pyvisa-py
+zeroconf
